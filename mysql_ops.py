@@ -11,10 +11,10 @@ import datetime as dt
 import mysql.connector
 
 # DB接続情報
-DB_HOST = "133.18.228.30"
-DB_USER = "admin"
-DB_PASSWORD = "admin"
-DB_DATABASE = "mysql"
+DB_HOST = "XXX.XXX.XXX.XXX"
+DB_USER = "XXX"
+DB_PASSWORD = "XXX"
+DB_DATABASE = "XXX"
 
 # テーブル名
 
