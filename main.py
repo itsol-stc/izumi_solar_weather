@@ -80,7 +80,7 @@ mysql.db_temp(prefArea_code,area_code,temp_forecast_time_today,temp[0],temp[1],r
 
 
 # 2日目の気温をセット
-mysql.db_temp(prefArea_code,area_code,temp_forecast_time_today,temp[2],temp[3],report_time)
+mysql.db_temp(prefArea_code,area_code,temp_forecast_time_tommorow,temp[2],temp[3],report_time)
 
 # print(temp_forecast_time_tommorow)
 # print("最低気温" + temp[2])
